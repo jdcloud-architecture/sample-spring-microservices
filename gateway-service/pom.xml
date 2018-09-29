@@ -27,7 +27,7 @@
 				<scope>import</scope>
 			</dependency>
 		</dependencies>
-	</dependencyManagement>sleuth
+	</dependencyManagement>
 
 	<dependencies>
 		<dependency>
@@ -58,3 +58,5 @@
 		</plugins>
 	</build>
 </project>
+
+
